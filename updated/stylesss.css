@@ -48,3 +48,38 @@ img{
     margin: auto;
 
 }
+/*-----------------------------about------------*/
+#about
+{
+  padding-top: 50px;
+  padding-bottom: 50px;
+  color: #252a34
+}
+#about .btn
+{
+  margin-top: 20px;
+  margin-bottom: 20px;
+  
+}
+.about-content
+{
+   padding-top: 20px;
+   
+}
+.skills-bar p
+{
+  margin-bottom: 6px;
+  font-weight: 600;
+  
+}
+.progress-bar
+{
+  border-radius: 16px;
+  
+}
+.progress
+{
+  border-radius: 16px;
+  margin-bottom: 20px;
+ 
+}
