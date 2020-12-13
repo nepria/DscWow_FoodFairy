@@ -1,0 +1,47 @@
+body{
+    background-color: #3f72af;
+}
+.header{
+    padding-bottom: 5%;
+    background-color: #112d4e;
+    text-align: center;
+}
+.container{
+    padding: 3%;
+    background-color: #3f72af;
+    padding-left: 10%;
+}
+h1{
+    padding-top: 4%;
+    padding-bottom: 5%;
+    color: white;
+    font-weight: 800;
+    font-family: 'Montserrat';
+    text-align: left;
+}
+.form-group{
+    color: black;
+
+}
+.contribution-details{
+    width: 400px;
+  padding:20px;
+  border: 2px solid #eee;
+
+    padding:10px;
+    border-radius:15px;
+
+}
+input[type=text] {
+    padding:10px;
+    border:0;
+    box-shadow:0 0 15px 4px rgba(0,0,0,0.06);
+  }
+.dropdown show{
+    color: white;
+    font-size: 40px;
+    padding-bottom: 5%;
+}
+.uu{
+    text-align: center;
+}
